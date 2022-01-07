@@ -2,4 +2,5 @@
 # Animated Ball on screen moves back and forth along the horizontal line
 # The ball will normally move at a constant speed
 # And will freeze in place whenever the mouse button is pressed
-# Resuming its motion when the mouse button is released.
+# Resuming its motion when the mouse button is released
+# Vedio of running ball is attached
